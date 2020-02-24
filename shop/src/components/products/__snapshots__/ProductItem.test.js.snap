@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductItem 1`] = `
+<div>
+  <div
+    class="ProductItem col s3"
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-image"
+      >
+        <img
+          alt=""
+          src="image"
+        />
+        <button
+          class="btn-floating btn-large halfway-fab waves-effect waves-light red"
+        >
+          <i
+            class="material-icons"
+          >
+            add_shopping_cart
+          </i>
+        </button>
+      </div>
+      <div
+        class="card-content"
+      >
+        <span
+          class="card-title"
+        >
+          title
+           (
+          42
+           €)
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
